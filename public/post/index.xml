@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Voice App Agency</title>
-    <link>http://localhost:1313/post/</link>
+    <link>http://voiceappagency.com/post/</link>
     <description>Recent content in Posts on Voice App Agency</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Apr 2018 21:22:52 +0200</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://voiceappagency.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Home</title>
-      <link>http://localhost:1313/post/home/</link>
+      <link>http://voiceappagency.com/post/home/</link>
       <pubDate>Mon, 16 Apr 2018 21:22:52 +0200</pubDate>
       
-      <guid>http://localhost:1313/post/home/</guid>
+      <guid>http://voiceappagency.com/post/home/</guid>
       <description></description>
     </item>
     
