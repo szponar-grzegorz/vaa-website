@@ -1,0 +1,18 @@
+addons:
+  apt:
+    packages:
+    - python-pygments
+env:
+  global:
+  - ENCRYPTION_LABEL: 2510bfbdc550
+  - DEPLOY_KEY: ".travis/id_rsa"
+  - COMMIT_AUTHOR_EMAIL: michal.klimuk@gmail.com
+before_script:
+- curl --silent -L https://github.com/gohugoio/hugo/releases/download/v0.39/hugo_0.39_Linux-64bit.tar.gz
+  | tar zxf -
+script:
+- GIT_COMMIT_SHA=`git rev-parse --verify HEAD` GIT_COMMIT_SHA_SHORT=`git rev-parse
+  --short HEAD` ./hugo -D
+after_success:
+- echo "voiceappagency.com" >> public/CNAME
+- "./.travis/deploy.sh"
