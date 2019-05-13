@@ -6,10 +6,19 @@
     <description>Recent content on Voice App Agency</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Apr 2018 21:22:52 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2019 08:25:22 +0200</lastBuildDate>
     
 	<atom:link href="http://voiceappagency.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>http://voiceappagency.com/post/about/</link>
+      <pubDate>Thu, 09 May 2019 08:25:22 +0200</pubDate>
+      
+      <guid>http://voiceappagency.com/post/about/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Home</title>
