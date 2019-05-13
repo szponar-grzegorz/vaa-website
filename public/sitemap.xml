@@ -3,29 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/post/home/</loc>
-    <lastmod>2018-04-16T21:22:52+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://voiceappagency.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2018-04-16T21:22:52+02:00</lastmod>
+    <loc>http://voiceappagency.com/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2018-04-16T21:22:52+02:00</lastmod>
+    <loc>http://voiceappagency.com/</loc>
     <priority>0</priority>
   </url>
   
